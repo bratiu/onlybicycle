@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bicycle/Bicycle/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BicycleU/BicycleU/blob/output/snake.svg" alt="Snake animation" />
 
 ###
