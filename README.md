@@ -44,6 +44,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
+<img align="left" src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
 
 ###
