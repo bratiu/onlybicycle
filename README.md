@@ -16,7 +16,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-### # 📊 GitHub Visit Counter
-<div align="center">
+### 📊 GitHub Visit Counter
+###<div align="center">
   <img src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
-</div>
+</div>###
