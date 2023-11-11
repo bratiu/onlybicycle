@@ -16,15 +16,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=onlybicycle&icon=5&color=0)](https://www.teknolikya.com.tr)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-###
-
+### # 📊 GitHub Visit Counter
 <div align="center">
   <img src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
 </div>
-
-###
