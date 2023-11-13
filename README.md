@@ -18,8 +18,8 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### :gem: My Profile
-<img src='https://discord.c99.nl/widget/theme-2/342738940920594442.png' style="height: 400px;"/>
-<img src='https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif' style="height: 400px;"/>
+<img src='https://discord.c99.nl/widget/theme-2/342738940920594442.png'/>
+<img src='https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif'/>
 
 ### 📊 GitHub Visit Counter
   <img src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
