@@ -21,7 +21,6 @@
 <img align="left" width="50%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/342738940920594442.png">
 <img align="left" width="50%" style="margin: 0 10px 0 0;" alt=" " src="https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif">
 
-<br>
 ### 📊 GitHub Visit Counter
   <img src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
 </div>
