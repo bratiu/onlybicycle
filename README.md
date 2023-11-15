@@ -18,7 +18,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### :gem: My Profile
-<img src='https://discord.c99.nl/widget/theme-2/342738940920594442.png'/>
+<img src='https://discord.c99.nl/widget/theme-3/342738940920594442.png'/>
 
 ### 📊 GitHub Visit Counter
   <img src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
