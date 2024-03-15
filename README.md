@@ -1,6 +1,9 @@
 <div align="center">
   
 # 📊 GitHub Stats:
+<div align="center">
+  <img alt="profile-view" src="./profile-3d-contrib/profile-night-view.svg"/>
+</div>
 ![](https://readme-github-stats.vercel.app/api?username=onlybicycle&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onlybicycle&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
