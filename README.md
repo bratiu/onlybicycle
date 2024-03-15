@@ -18,7 +18,8 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### :gem: My Profile
-<img src='https://discord.c99.nl/widget/theme-3/342738940920594442.png'/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/342738940920594442)](https://discord.com/users/342738940920594442)
+<!-- <img src='https://discord.c99.nl/widget/theme-3/342738940920594442.png'/> -->
 
 ### 📊 GitHub Visit Counter
   <img src="https://profile-counter.glitch.me/BicycleU/count.svg?"  />
